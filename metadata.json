@@ -1,0 +1,8 @@
+{
+  "name": "MS AI - Intelligent Assistant",
+  "description": "Next Generation Artificial Intelligence Assistant with a premium white UI, real-time chat, and Firebase integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
